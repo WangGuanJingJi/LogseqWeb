@@ -50,7 +50,7 @@
  :markdown/version 2
 
  :feature/enable-journals? true
- :default-home {:page "journal" :sidebar "刊"}
+ :default-home {:page "刊" }
  :ui/show-brackets? true
  :journal/page-title-format "YYYY-MM-dd"
  :journal/file-name-format "YYYY-MM-dd"
